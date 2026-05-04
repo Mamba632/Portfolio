@@ -26,6 +26,6 @@ Certified in AI & Data Science (YBI Foundation)
 Certified in YouTube & Web Development (Udemy)
 
 📬 Connect with Me
-LinkedIn: your-profile-link
-GitHub: your-username
-Twitter: @yourhandle
+LinkedIn: www.linkedin.com/in/
+manav-raval-2a121a227
+GitHub: [your-username](https://github.com/Mamba632)
